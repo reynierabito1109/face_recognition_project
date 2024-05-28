@@ -1,0 +1,40 @@
+2024-03-22 14:57:33,657 - Error connecting to the database: ('HY000', "[HY000] [Microsoft][ODBC Driver 18 for SQL Server][SQL Server]Database 'employees' on server 'facerecognitionproject.database.windows.net' is not currently available.  Please retry the connection later.  If the problem persists, contact customer support, and provide them the session tracing ID of '{20495074-8759-4B55-99B7-149C00F4FD33}'. (40613) (SQLDriverConnect); [HY000] [Microsoft][ODBC Driver 18 for SQL Server][SQL Server]Database 'employees' on server 'facerecognitionproject.database.windows.net' is not currently available.  Please retry the connection later.  If the problem persists, contact customer support, and provide them the session tracing ID of '{20495074-8759-4B55-99B7-149C00F4FD33}'. (40613)")
+2024-03-22 14:57:33,657 - Loading known faces...
+2024-03-22 14:57:34,606 - Loaded image: C:/Project/personal_project1/training/IT Department/Reynier Abito\ReynierAbito1.jpg
+2024-03-22 14:57:35,494 - Loaded image: C:/Project/personal_project1/training/IT Department/Reynier Abito\ReynierAbito2.jpg
+2024-03-22 14:57:36,216 - Loaded image: C:/Project/personal_project1/training/IT Department/Reynier Abito\ReynierAbito3.jpg
+2024-03-22 14:57:36,983 - Loaded image: C:/Project/personal_project1/training/IT Department/Reynier Abito\ReynierAbito4.jpg
+2024-03-22 14:57:38,134 - Loaded image: C:/Project/personal_project1/training/IT Department/Reynier Abito\ReynierAbito5.jpg
+2024-03-22 14:57:39,967 - Loaded image: C:/Project/personal_project1/training/IT Department/Keane Farol\KeaneFarol1.jpg
+2024-03-22 14:57:41,750 - Loaded image: C:/Project/personal_project1/training/IT Department/Keane Farol\KeaneFarol2.jpg
+2024-03-22 14:57:43,752 - Loaded image: C:/Project/personal_project1/training/IT Department/Keane Farol\KeaneFarol3.jpg
+2024-03-22 14:57:45,509 - Loaded image: C:/Project/personal_project1/training/IT Department/Keane Farol\KeaneFarol4.webp
+2024-03-22 14:57:47,764 - Loaded image: C:/Project/personal_project1/training/IT Department/Keane Farol\KeaneFarol5.jpg
+2024-03-22 14:57:49,936 - Loaded image: C:/Project/personal_project1/training/IT Department/Justin Juson\JustinJuson1.jpg
+2024-03-22 14:58:12,898 - Database connection successful
+2024-03-22 14:58:20,645 - Recognized: Reynier Abito at 2024-03-22 14:58:20
+2024-03-22 14:58:21,040 - Date edited successfully
+2024-03-22 14:58:21,236 - Attendance recorded successfully
+2024-03-22 14:58:53,329 - Database connection closed
+2024-03-22 15:25:41,205 - Database connection is already closed or invalid
+2024-04-30 10:54:51,904 - Database connection successful
+2024-04-30 10:54:51,904 - Loading known faces...
+2024-04-30 10:54:53,001 - Loaded image: C:/Project/personal_project1/training/IT Department/Reynier Abito\ReynierAbito1.jpg
+2024-04-30 10:54:54,141 - Loaded image: C:/Project/personal_project1/training/IT Department/Reynier Abito\ReynierAbito2.jpg
+2024-04-30 10:54:55,142 - Loaded image: C:/Project/personal_project1/training/IT Department/Reynier Abito\ReynierAbito3.jpg
+2024-04-30 10:54:56,288 - Loaded image: C:/Project/personal_project1/training/IT Department/Reynier Abito\ReynierAbito4.jpg
+2024-04-30 10:54:57,856 - Loaded image: C:/Project/personal_project1/training/IT Department/Reynier Abito\ReynierAbito5.jpg
+2024-04-30 10:55:00,359 - Loaded image: C:/Project/personal_project1/training/IT Department/Keane Farol\KeaneFarol1.jpg
+2024-04-30 10:55:03,773 - Loaded image: C:/Project/personal_project1/training/IT Department/Keane Farol\KeaneFarol2.jpg
+2024-04-30 10:55:06,290 - Loaded image: C:/Project/personal_project1/training/IT Department/Keane Farol\KeaneFarol3.jpg
+2024-04-30 10:55:08,462 - Loaded image: C:/Project/personal_project1/training/IT Department/Keane Farol\KeaneFarol4.webp
+2024-04-30 10:55:10,712 - Loaded image: C:/Project/personal_project1/training/IT Department/Keane Farol\KeaneFarol5.jpg
+2024-04-30 10:55:13,417 - Loaded image: C:/Project/personal_project1/training/IT Department/Justin Juson\JustinJuson1.jpg
+2024-04-30 10:59:53,928 - Database connection successful
+2024-04-30 11:00:06,025 - Recognized: Reynier Abito at 2024-04-30 11:00:06
+2024-04-30 11:00:06,280 - Date edited successfully
+2024-04-30 11:00:06,482 - Attendance recorded successfully
+2024-04-30 11:01:06,390 - Recognized: Reynier Abito at 2024-04-30 11:01:06
+2024-04-30 11:01:06,550 - Date edited successfully
+2024-04-30 11:01:07,016 - Attendance recorded successfully
+2024-04-30 11:01:17,611 - Database connection closed
